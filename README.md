@@ -7,7 +7,7 @@ Release Date Max (I hope) september 20 2023
 
 Teaser
 
-[![(b-a.jpeg)](https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/yt.jpeg)](https://b-a.sh)
+[![(b-a.jpeg)](https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/b-a.jpeg)](https://b-a.sh)
 
 Français :
 
