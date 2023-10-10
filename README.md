@@ -7,8 +7,8 @@ Release Date Max (I hope) september 20 2023
 
 Teaser
 
-![b-a.jpeg](La\ reefbox\ 🤪\ ｜\ By\ Bastien\ \[992599625319624\].mp4)
+![b-a.jpeg](https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/b-a.jpeg)(https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/La%20reefbox%20%F0%9F%A4%AA%20%EF%BD%9C%20By%20Bastien%20%5B992599625319624%5D.mp4)
 
 Français :
 
-![Windows.svg](https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/Windows.svg)(https://github.com/bbaranoff/OPi5Plus_Media_Center/blob/main/README_FR.md)]
+![Windows.svg](https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/Windows.svg)(Lisez-Moi)
