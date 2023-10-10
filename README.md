@@ -6,18 +6,9 @@ Retropie + Kodi Plug and Play
 Release Date Max (I hope) september 20 2023
 
 Teaser
+![](https://www.facebook.com/100091372463501/videos/992599625319624)
 
-<video src="https://La%20reefbox%20%F0%9F%A4%AA%20%EF%BD%9C%20By%20Bastien%20%5B992599625319624%5D.mp4" onloadedmetadata="this.muted = true" playsinline autoplay muted loop></video>
- 
+
 Français :
 
 ![Windows.svg](https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/Windows.svg)(Lisez-Moi)
-
-
-
-<video controls width="250">
-  <source src="https://github.com/bbaranoff/bbaranoff.github.io/raw/main/video.webm" type="video/webm" />
-  Download the
-  <a href="https://github.com/bbaranoff/bbaranoff.github.io/raw/main/video.webm">WEBM</a>
-  video.
-</video>
