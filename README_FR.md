@@ -14,3 +14,5 @@ Télécharger l'image OPi5Plus_Media_Center  https://drive.google.com/file/d/19e
 
 
 
+![](balena.png)
+![](flash_from_file.png)
