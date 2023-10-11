@@ -10,6 +10,6 @@ Télécharger balenaEtcher pour Windows:
 
 [<img src="https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/balena_logo.svg" width="20%" height="20%">](https://github.com/balena-io/etcher/releases/download/v1.18.11/balenaEtcher-Setup-1.18.11.exe)
 
-Télécharger l'image OPi5Plus_Media_Center  [![Library](Library.jpeg)](https://drive.google.com/file/d/19eOtLbYPvVjBqDh5ySviZfLc3JrUll1e/view?usp=sharing)
+Télécharger l'image OPi5Plus_Media_Center  [![Library.jpg](Library.jpg)](https://drive.google.com/file/d/19eOtLbYPvVjBqDh5ySviZfLc3JrUll1e/view?usp=sharing)
 
 ![](balena.png)
