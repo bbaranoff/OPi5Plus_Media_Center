@@ -14,4 +14,14 @@ Télécharger l'image OPi5Plus_Media_Center
 
 [<img src="https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/Library.jpg" width="20%" height="20%">](https://drive.google.com/file/d/19eOtLbYPvVjBqDh5ySviZfLc3JrUll1e/view?usp=sharing)
 
+Une fois téléchargé,ouvrir balena etcher :
 ![](balena.png)
+
+Après selectionner "Flash From file"
+Séléctionnez votre carte SD
+FLASH
+Mettez votre carte SD sur l'OrangePi
+
+!! Il n'y a pas de jeux ni de source pour les chaines vous devez donc les trouver vous même...
+L'image est faite pour qu'un support NVMe se monte directement sur /home/paris/Retropie
+vous devez donc avoir dans le NVMe un dossier roms avec le nom de vos consoles exemple (nvme_root)/roms/n64/mario_kart.n64 qui sera automatiquement monté sur /home/paris/Retropie/roms/n64/mario_kart.n64
