@@ -10,4 +10,4 @@ https://drive.google.com/file/d/19eOtLbYPvVjBqDh5ySviZfLc3JrUll1e/view?usp=shari
 
 Installation (Français) :
 
-![Windows.svg](https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/Windows.svg)(Lisez-Moi)
+![Windows.svg](https://raw.githubusercontent.com/bbaranoff/OPi5Plus_Media_Center/main/Windows.svg)
